@@ -161,3 +161,6 @@ echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.bashrc
 ```
 exec "$SHELL"
 ```
+
+## Install gcloud
+
