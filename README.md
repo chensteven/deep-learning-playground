@@ -2,6 +2,7 @@
 
 ## Install Vim
 ```
+sudo apt-get remove vim-tiny
 sudo apt-get install vim
 ```
 We're going to install:
