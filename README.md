@@ -1,4 +1,9 @@
 # Guide to installing a deep learning environment
+
+## Install Vim
+```
+sudo apt-get install vim
+```
 We're going to install:
 - Nvidia CUDA Toolkit 10.0
 - Nvidia CUDNN 10.0
