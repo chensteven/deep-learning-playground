@@ -115,6 +115,12 @@ Pyenv is a simple Python version management
 ### Installation
 Source: https://github.com/pyenv/pyenv
 
+0. Install dependencies first
+```
+sudo apt-get update; sudo apt-get install --no-install-recommends make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev
+
+```
+
 1. Check out pyenv where you want it installed. A good place to choose is $HOME/.pyenv (but you can install it somewhere else).
 ```
 git clone https://github.com/pyenv/pyenv.git ~/.pyenv
