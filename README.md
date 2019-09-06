@@ -1,4 +1,4 @@
-# Guide to installing a deep learning environment
+# A guide to building a Deep Learning Environment on an Ubuntu Linux machine
 
 ## Install Vim
 ```
